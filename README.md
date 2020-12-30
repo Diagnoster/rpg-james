@@ -1,2 +1,2 @@
 # rpg-james
-Joguinho infinito simples
+Joguinho batalhas infinitas simples.
